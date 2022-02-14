@@ -6,3 +6,4 @@ The provided dataset (from [Lazebnik et al., 2006]), contains the following 15 c
 
 Office, Kitchen, Living room, Bedroom, Store, Industrial, Tall building, Inside city, Street, Highway, Coast, Open country, Mountain, Forest, Suburb.
 
+Authors: Davide Vidmar, Gabriele Pittia
