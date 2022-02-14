@@ -10,5 +10,7 @@ Authors: Davide Vidmar, Gabriele Pittia
 
 
 COMPUTERVISION.PDF : Project report
+
 BASENET: Base work with network proposed by teacher
+
 RESNET: Transfer learning
